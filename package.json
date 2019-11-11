@@ -2,6 +2,12 @@
   "name": "cypress_learn",
   "description": "Auto QA fraemwork",
   "author": "OLga Dl",
+  "private": true,
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/volhadl/cypress_aqa.git"
+  },
   "devDependencies": {
     "cypress": "^3.6.1"
   }
