@@ -1,0 +1,8 @@
+{
+  "name": "cypress_learn",
+  "description": "Auto QA fraemwork",
+  "author": "OLga Dl",
+  "devDependencies": {
+    "cypress": "^3.6.1"
+  }
+}
